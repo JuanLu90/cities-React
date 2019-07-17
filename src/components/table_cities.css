@@ -1,0 +1,25 @@
+.table_cities label{
+    background-color: rgb(13, 10, 49);
+    padding: 0;
+}
+
+.table_cities input{
+    background-color: rgba(189, 195, 199,1.0);
+    padding: 0 0 0 10px;
+}
+
+.table_cities .col{
+    padding: 0;
+}
+
+.table_cities{
+    margin-bottom: 0;
+}
+
+.table_cities-row{
+    background-color: rgb(220, 232, 240);
+}
+
+.table_cities-col{
+    background-color: rgb(38, 30, 124);
+}

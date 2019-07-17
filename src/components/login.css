@@ -1,0 +1,11 @@
+.form{
+    background-color: rgba(223, 249, 251,0.3);
+}
+
+.form button{
+    background-color: rgba(11, 232, 129,1.0);
+}
+
+.form button:hover{
+    background-color: rgba(11, 232, 129,0.6);
+}

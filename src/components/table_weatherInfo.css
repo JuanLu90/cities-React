@@ -1,0 +1,26 @@
+.table_infoWeather label {
+    background-color: rgb(13, 10, 49);
+    padding: 0;
+}
+
+/* 
+.table input{
+    background-color: rgba(189, 195, 199,1.0);
+    padding: 0 0 0 10px;
+} */
+
+.table_infoWeather .col {
+    padding: 0;
+}
+
+.table_infoWeather {
+    margin-bottom: 0;
+}
+
+.table_infoWeather-row {
+    background-color: rgb(220, 232, 240);
+}
+
+.table_infoWeather-col {
+    background-color: rgb(38, 30, 124);
+}
